@@ -1,4 +1,4 @@
-const personer = [
+/*const personer = [
   { fornamn: "Anna", efternamn: "Andersson", stad: "Stockholm" },
   { fornamn: "Erik", efternamn: "Eriksson", stad: "Göteborg" },
   { fornamn: "Sara", efternamn: "Svensson", stad: "Malmö" },
@@ -14,3 +14,4 @@ const personer = [
 const findName = personer.find(person => person.efternamn === "Svensson")
 console.log("In-värde: Array med alla 10 personer:", personer);
 console.log("Ut-värde: Ett objekt", findName);
+*/
