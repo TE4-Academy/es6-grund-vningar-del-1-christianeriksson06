@@ -1,4 +1,4 @@
-const personer = [
+/*const personer = [
   { fornamn: "Anna", efternamn: "Andersson", stad: "Stockholm" },
   { fornamn: "Erik", efternamn: "Eriksson", stad: "Göteborg" },
   { fornamn: "Sara", efternamn: "Svensson", stad: "Malmö" },
@@ -10,6 +10,8 @@ const personer = [
   { fornamn: "Maria", efternamn: "Månsson", stad: "Malmö" },
   { fornamn: "Per", efternamn: "Persson", stad: "Stockholm" }
 ];
+
 const stockholmFilter = personer.filter(person => person.stad === "Stockholm");
 console.log("In-värde: Array med alla 10 personer:", personer);
 console.log("Ut-värde: Array med 4 personer från stockholm", stockholmFilter);
+*/
